@@ -1,6 +1,7 @@
 e-Bullet Journal README / 使い方
 
 対象: "index.html"
+名称:"e-bullet-journal"
 公開方式: GitHub Pages
 確認日: 2026-10-01
 
